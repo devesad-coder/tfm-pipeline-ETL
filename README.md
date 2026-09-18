@@ -12,4 +12,5 @@ Para ejecutar los scripts, es necesario configurar las credenciales de base de d
 
 *Nota: En cumplimiento con la licencia de StatsBomb y las buenas prácticas de Data Engineering, los archivos de datos crudos (.json) no se distribuyen en este repositorio. Para reproducir este entorno, es necesario descargar los datos desde el repositorio oficial de StatsBomb y alojarlos en el directorio de entrada local.*
 
-**📊 Dashboard final:** [Ver visualización interactiva en Tableau Public] https://public.tableau.com/app/profile/david.devesa.p.rez/viz/Visualizacion_scouting/REDESDEPASES
+**Dashboard final:** Ver visualización interactiva en Tableau Public 
+https://public.tableau.com/app/profile/david.devesa.p.rez/viz/Visualizacion_scouting/REDESDEPASES
