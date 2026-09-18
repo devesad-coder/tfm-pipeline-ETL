@@ -10,7 +10,7 @@ Este repositorio contiene el código fuente desarrollado para el Trabajo de Fin 
 ## Configuración del entorno
 Para ejecutar los scripts, es necesario configurar las credenciales de base de datos. Se incluye un archivo `example.env` con la estructura requerida para las conexiones a Snowflake y MongoDB Atlas.
 
-*Nota: En cumplimiento con la licencia de StatsBomb y las buenas prácticas de Data Engineering, los archivos de datos crudos (.json) no se distribuyen en este repositorio. Para reproducir este entorno, es necesario descargar los datos desde el repositorio oficial de StatsBomb y alojarlos en el directorio de entrada local.*
+*Nota: En cumplimiento con la licencia de StatsBomb y las buenas prácticas de Data Engineering, los archivos de datos crudos (.json) no se distribuyen en este repositorio. Para reproducir este entorno, es necesario descargar los datos desde el repositorio oficial de StatsBomb y alojarlos en el directorio de entrada local.* https://github.com/hudl/open-data
 
 **Dashboard final:** Ver visualización interactiva en Tableau Public 
 https://public.tableau.com/app/profile/david.devesa.p.rez/viz/Visualizacion_scouting/REDESDEPASES
